@@ -1,8 +1,8 @@
 ### Fire Incidents
 
-For this project, I got data from the [https://datasf.org/opendata/](San Francisco Open Data) about fire incidents in the city. Then using react-leaflet, I was able to show the locations of the said incidents on the map.
+For this project, I got data from the [San Francisco Open Data](https://datasf.org/opendata/) about fire incidents in the city. Then using react-leaflet, I was able to show the locations of the said incidents on the map.
 
-I wrote in detail about how too use Leaflet and React-Leaflet [https://www.smashingmagazine.com/2020/02/javascript-maps-react-leaflet/](here).
+I wrote in detail about how too use Leaflet and React-Leaflet [here](https://www.smashingmagazine.com/2020/02/javascript-maps-react-leaflet/).
 
 ## Howw to Run
 
